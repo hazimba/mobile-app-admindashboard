@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dsgadminmobileapp-dev-173317-authRole",
+      "UnauthRoleArn": "arn:aws:iam::063393360360:role/amplify-dsgadminmobileapp-dev-173317-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::063393360360:role/amplify-dsgadminmobileapp-dev-173317-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-dsgadminmobileapp-dev-173317-deployment",
+      "UnauthRoleName": "amplify-dsgadminmobileapp-dev-173317-unauthRole",
+      "StackName": "amplify-dsgadminmobileapp-dev-173317",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:063393360360:stack/amplify-dsgadminmobileapp-dev-173317/df35d3d0-665a-11ed-b9f4-06a6a0a8f85e",
+      "AmplifyAppId": "d35ehkaa8usjy9"
+    },
+    "categories": {
+      "function": {
+        "dsgadminapi": {
+          "deploymentBucketName": "amplify-dsgadminmobileapp-dev-173317-deployment",
+          "s3Key": "amplify-builds/dsgadminapi-4b326358396b6d706e38-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d35ehkaa8usjy9",
+          "type": "cicd"
+        }
+      },
+      "api": {
+        "dsgadminapi": {}
+      }
+    }
+  }
+}
