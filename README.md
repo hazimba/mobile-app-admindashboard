@@ -1,2 +1,19 @@
-# AdminDashboard
-Admin Dashboard is one of feature required from client. It simplified version from the main application of powerapps currently client use. 
+# dsg-homepage
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
